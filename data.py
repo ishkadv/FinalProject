@@ -12,11 +12,4 @@ AUTH_TOKEN = ""
 
 kit_body = {
        "name": "Мой набор",
-       "card": {
-           "id": 1,
-           "name": "Под ситуацию"
-       },
-       "productsList": 1,
-       "id": 7,
-       "productsCount": 0
    }
